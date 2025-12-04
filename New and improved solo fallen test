@@ -1,3 +1,4 @@
+voteModifiers({Glass = true, ExplodingEnemies = true})
 unlockTimeScale()
 cycleTimeScale()
 cycleTimeScale()
