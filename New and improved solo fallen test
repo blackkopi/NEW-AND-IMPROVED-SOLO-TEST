@@ -1,4 +1,4 @@
-
+voteModifiers({Quarantine = false, Glass = true, ExplodingEnemies = true})
 place(8.954, 1.000, 5.435, "Soldier", 500)
 place(9.048, 1.000, 2.236, "Soldier", 500)
 place(8.930, 1.000, -0.865, "Soldier", 500)
